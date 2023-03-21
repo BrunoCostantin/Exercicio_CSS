@@ -108,6 +108,21 @@ section h2 {
     background-color: #ff9f1a;
 }
 
+#entertainment {
+    background-color: #969dd8;
+}
+
+#entertainment .articles article a {
+    background-color: blue;
+}
+
+#technology {
+    background-color: #999;
+}
+
+#technology .articles article a {
+    background-color: rgb(179, 86, 197);
+}
 /*
 seletor{
     propriedades: valor;
